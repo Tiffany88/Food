@@ -20,6 +20,7 @@
 		BD1AA2AA1505125D00A3CB2F /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BD1AA2A91505125D00A3CB2F /* SecondViewController.m */; };
 		BD1AA2AC1505125D00A3CB2F /* second.png in Resources */ = {isa = PBXBuildFile; fileRef = BD1AA2AB1505125D00A3CB2F /* second.png */; };
 		BD1AA2AE1505125D00A3CB2F /* second@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BD1AA2AD1505125D00A3CB2F /* second@2x.png */; };
+		BD1AA2B5150513D500A3CB2F /* ScrambledEggs.png in Resources */ = {isa = PBXBuildFile; fileRef = BD1AA2B4150513D500A3CB2F /* ScrambledEggs.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,21 +28,22 @@
 		BD1AA28C1505125D00A3CB2F /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		BD1AA28E1505125D00A3CB2F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		BD1AA2901505125D00A3CB2F /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		BD1AA2941505125D00A3CB2F /* TrailStuff-Info.plist */ = {isa = PBXFileReference; path = "TrailStuff-Info.plist"; sourceTree = "<group>"; };
+		BD1AA2941505125D00A3CB2F /* TrailStuff-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TrailStuff-Info.plist"; sourceTree = "<group>"; };
 		BD1AA2961505125D00A3CB2F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		BD1AA2981505125D00A3CB2F /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		BD1AA29A1505125D00A3CB2F /* TrailStuff-Prefix.pch */ = {isa = PBXFileReference; path = "TrailStuff-Prefix.pch"; sourceTree = "<group>"; };
-		BD1AA29B1505125D00A3CB2F /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		BD1AA29A1505125D00A3CB2F /* TrailStuff-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TrailStuff-Prefix.pch"; sourceTree = "<group>"; };
+		BD1AA29B1505125D00A3CB2F /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		BD1AA29C1505125D00A3CB2F /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		BD1AA29F1505125D00A3CB2F /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
-		BD1AA2A11505125D00A3CB2F /* FirstViewController.h */ = {isa = PBXFileReference; path = FirstViewController.h; sourceTree = "<group>"; };
+		BD1AA2A11505125D00A3CB2F /* FirstViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
 		BD1AA2A21505125D00A3CB2F /* FirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
 		BD1AA2A41505125D00A3CB2F /* first.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = first.png; sourceTree = "<group>"; };
 		BD1AA2A61505125D00A3CB2F /* first@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "first@2x.png"; sourceTree = "<group>"; };
-		BD1AA2A81505125D00A3CB2F /* SecondViewController.h */ = {isa = PBXFileReference; path = SecondViewController.h; sourceTree = "<group>"; };
+		BD1AA2A81505125D00A3CB2F /* SecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
 		BD1AA2A91505125D00A3CB2F /* SecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
 		BD1AA2AB1505125D00A3CB2F /* second.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = second.png; sourceTree = "<group>"; };
 		BD1AA2AD1505125D00A3CB2F /* second@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "second@2x.png"; sourceTree = "<group>"; };
+		BD1AA2B4150513D500A3CB2F /* ScrambledEggs.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ScrambledEggs.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 				BD1AA2A91505125D00A3CB2F /* SecondViewController.m */,
 				BD1AA2AB1505125D00A3CB2F /* second.png */,
 				BD1AA2AD1505125D00A3CB2F /* second@2x.png */,
+				BD1AA2B4150513D500A3CB2F /* ScrambledEggs.png */,
 				BD1AA2931505125D00A3CB2F /* Supporting Files */,
 			);
 			path = TrailStuff;
@@ -171,6 +174,7 @@
 				BD1AA2A71505125D00A3CB2F /* first@2x.png in Resources */,
 				BD1AA2AC1505125D00A3CB2F /* second.png in Resources */,
 				BD1AA2AE1505125D00A3CB2F /* second@2x.png in Resources */,
+				BD1AA2B5150513D500A3CB2F /* ScrambledEggs.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
