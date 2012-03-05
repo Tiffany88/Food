@@ -9,6 +9,7 @@
 #import "FirstViewController.h"
 
 @implementation FirstViewController
+@synthesize eatTheEggs;
 
 - (void)didReceiveMemoryWarning
 {
@@ -26,6 +27,7 @@
 
 - (void)viewDidUnload
 {
+    [self setEatTheEggs:nil];
     [super viewDidUnload];
     // Release any retained subviews of the main view.
     // e.g. self.myOutlet = nil;
@@ -57,4 +59,15 @@
     return (interfaceOrientation != UIInterfaceOrientationPortraitUpsideDown);
 }
 
+- (IBAction)saltTheEggs:(id)sender {
+}
+
+- (IBAction)pepperTheEggs:(id)sender {
+}
+
+- (IBAction)eatTheEggs:(id)sender {
+}
+
+- (IBAction)goToJail:(id)sender {
+}
 @end
